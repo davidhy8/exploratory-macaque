@@ -1,1 +1,1 @@
-Heritability and Pedigree Analysis
+Heritability and Pedigree Analysis with R packages MCMCglmm, INLA, and MasterBayes
